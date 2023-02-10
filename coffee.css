@@ -1,0 +1,99 @@
+.bg{
+height:60px;
+background:black;
+border-radius: 0px;
+position:sticky;
+top:100px;
+margin-bottom:0px;
+}
+.bg p{
+padding:5px;
+font-size:30px;
+font-family:Algerian;
+color:orange;
+font-weight:bold;
+}
+
+
+ .white li a{
+position:relative;
+margin-top:5px;
+color:white;
+top:center;
+}
+.white li a:hover{
+	background: #363636;
+}
+.pi{
+height:600px;
+background:url('coffee.jpg');
+background-size: auto 140%;
+	background-position: center;
+	background-attachment: fixed;
+}
+.pi p{
+position: absolute;
+	font-size: 60px;
+	color: white;
+font-family:Edwardian Script ITC;
+	font-weight: bold;
+	top: 250px;
+	text-align: right;
+	right: 50px;
+}
+.pi h1{
+font-size:20px;
+color:white;
+margin-top: 340px;
+	text-align: right;
+	right: 50px;
+}
+.b-solid{margin-left:850px;
+margin-right:30px;
+border-radius: 1px;
+	color: black;
+	font-size:16px;
+	background: orange;
+}
+.b-outline{border-radius: 1px;
+	color: orange;
+	background: transparent;
+	border: 2px solid orange;
+	font-size:16px;
+}
+.b-outline1{border-radius: 4px;
+	color: orange;
+	background: transparent;
+	border: 2px solid orange;
+	font-size:12px;
+}
+.b-outline:hover{
+	color: orange;
+}
+.cont h3{
+color:grey;}
+.cont h2{font-family:Algerian;
+font-weight:bold;}
+.cof{
+height:580px;
+background:url('cc2.jpg');
+background-size: auto 140%;
+	background-position: center;
+	background-attachment: fixed;
+}
+.col-lg-6 p{
+color:brown;
+padding:10px;}
+.col-lg-6 h2{text-align:center;}
+.c{height:480px;
+background:url('cm.jpg');
+background-size:50%;
+background-position: center;
+text-shadow:0px 0px 5px black;
+
+}
+.foot {margin-top:70px;
+padding:7px;
+height:100px;
+background:black;
+color:white;}
